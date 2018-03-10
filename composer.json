@@ -12,6 +12,7 @@
             "email": "469306621@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"GeeTest\\": "src/GeeTest"}
     }
