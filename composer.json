@@ -1,0 +1,18 @@
+{
+    "name": "scort/gt3-php-sdk",
+    "description": "极验3.0验证",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "469306621",
+            "email": "469306621@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"GeeTest\\": "src/GeeTest"}
+    }
+}
