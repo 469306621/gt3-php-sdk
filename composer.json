@@ -3,7 +3,7 @@
     "description": "极验3.0验证",
     "type": "library",
     "require": {
-        "php": "^7.1"
+        "php": ">=5.6"
     },
     "license": "MIT",
     "authors": [
